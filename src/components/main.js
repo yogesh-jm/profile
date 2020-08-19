@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 
+// This is test component
 class Main extends Component {
   render() {
     return (
